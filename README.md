@@ -107,3 +107,7 @@ class Programmer extends Pegawai {
     }
 }
 ```
+
+<h2>berikut adalh output yang dihasilkan</h2>
+
+![image](kk.png)
